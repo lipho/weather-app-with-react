@@ -50,3 +50,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Proj Specific
+secret.js
